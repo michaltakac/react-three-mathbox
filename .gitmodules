@@ -1,0 +1,3 @@
+[submodule "shadergraph"]
+	path = shadergraph
+	url = https://github.com/unconed/shadergraph
